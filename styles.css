@@ -1,0 +1,119 @@
+body {
+    background-color: #360050;
+    color: #ffffff;
+}
+
+.carousel-item img {
+    height: 400px;
+    object-fit: contain;
+}
+
+.card {
+    background-color: #230d2d;
+}
+
+.card-title,
+.card-text {
+    color: #fff;
+}
+
+.btn-primary {
+    background-color: #8aff00;
+    border-color: #8aff00;
+}
+
+.btn-primary:hover {
+    background-color: #00ff7f;
+    border-color: #00ff7f;
+}
+
+.navbar-brand {
+    color: #8aff00;
+    padding: 1%;
+}
+
+.nav-link {
+    color: #8aff00;
+}
+
+.navbar-toggler-icon {
+    background-color: #8aff00;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: #8aff00;
+}
+
+.carousel-control-prev-icon:hover,
+.carousel-control-next-icon:hover {
+    background-color: #00ff7f;
+}
+
+.visually-hidden {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+}
+
+.title-link {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.navbar-custom {
+    background-color: #1d002a;
+}
+
+.icon-wrapper {
+    position: absolute;
+    top: -50px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.icon-img {
+    height: 90px;
+}
+
+.framework-icon {
+    height: 10cm;
+}
+
+h1 {
+    font-weight: bold;
+    padding-top: 1cm;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color: #8aff00;
+}
+
+h2 {
+    margin-left: 10cm;
+    display: flex;
+    color: #8aff00;
+}
+
+ul {
+    padding-left: 11cm;
+    color: #ffffff;
+}
+
+.img-container {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.row {
+    margin-bottom: 6cm;
+}
